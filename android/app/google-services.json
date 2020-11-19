@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284015856655",
+    "firebase_url": "https://arduino-johnny.firebaseio.com",
+    "project_id": "arduino-johnny",
+    "storage_bucket": "arduino-johnny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284015856655:android:a2cfbfd1ad9a1d8554677a",
+        "android_client_info": {
+          "package_name": "com.johnnymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284015856655-45a4m99v22ninl0pef80gf3s2l6mvvld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnnymobile",
+            "certificate_hash": "46b07e9b0725e82eb1917d9051ebdc8e3bf83824"
+          }
+        },
+        {
+          "client_id": "284015856655-prjkp41sc781vq5qhkhiv13vu6snmq1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wsIf1dlhkeTr0un6rSNRFCZP1ZWXsWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284015856655-prjkp41sc781vq5qhkhiv13vu6snmq1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
